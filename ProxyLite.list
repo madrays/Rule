@@ -1,24 +1,7 @@
 # 代理补充列表
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,qichiyu.com
-DOMAIN-SUFFIX,fsm.name
-DOMAIN-SUFFIX,icc2022.com
-DOMAIN-SUFFIX,pting.club
-DOMAIN-SUFFIX,5rmt2.com
-DOMAIN-SUFFIX,star-space.net
-DOMAIN-SUFFIX,hongxingyunmovie.vip
-DOMAIN-SUFFIX,ourbits.club
-DOMAIN-SUFFIX,pterclub.com
-DOMAIN-SUFFIX,audiences.me
-DOMAIN-SUFFIX,hdfans.org
-DOMAIN-SUFFIX,haidan.video
-DOMAIN-SUFFIX,rousi.zip
-DOMAIN-SUFFIX,sunnypt.top
-DOMAIN-SUFFIX,pttime.org
-DOMAIN-SUFFIX,ptcafe.club
-DOMAIN-SUFFIX,wintersakura.net
-DOMAIN-SUFFIX,ptchina.org
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 
